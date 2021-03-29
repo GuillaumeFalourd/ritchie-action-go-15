@@ -12,7 +12,7 @@ jobs:
     name: Ritchie Action
     steps:
     - name: Run Ritchie Action Command
-      uses: GuillaumeFalourd/ritchie-actions-go-15@main
+      uses: GuillaumeFalourd/ritchie-action-go-15@main
       with:
         rit-repo-url: https://github.com/ZupIT/ritchie-formulas-demo
         rit-formula-command: rit demo coffee-go --rit_name=Dennis --rit_coffee_type=espresso --rit_delivery=false
