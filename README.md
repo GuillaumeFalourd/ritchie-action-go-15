@@ -1,4 +1,4 @@
-# ritchie-action-python
+# ritchie-action-go-15
 
 This Github action works for [Ritchie CLI](https://ritchiecli.io/) formulas implemented in **Golang**.
 
