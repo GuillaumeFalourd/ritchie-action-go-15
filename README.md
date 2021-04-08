@@ -1,6 +1,6 @@
 # ritchie-action-python
 
-This Github action works for Ritchie CLI formulas implemented in **Golang**.
+This Github action works for [Ritchie CLI](https://ritchiecli.io/) formulas implemented in **Golang**.
 
 [![Action workflow (PUBLIC)](https://github.com/GuillaumeFalourd/ritchie-action-go-15/actions/workflows/public-repo-demo-workflow.yml/badge.svg)](https://github.com/GuillaumeFalourd/ritchie-action-go-15/actions/workflows/public-repo-demo-workflow.yml)
 
