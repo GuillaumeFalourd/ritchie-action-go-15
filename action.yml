@@ -1,4 +1,4 @@
-name: 'Ritchie CLI action (Golang 15)'
+name: 'Ritchie CLI action (golang 15)'
 
 description: 'Execute Ritchie CLI formulas implemented in GOLANG 15'
 
